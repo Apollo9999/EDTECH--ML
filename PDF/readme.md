@@ -1,4 +1,4 @@
-# DALP Generate PDF Azure Function
+# EDTECH--ML Generate PDF Azure Function
 
 Azure Function to generate pdf from transcripts and screenshots, save it to Azure Blob storage and return the pdf URL.
 
