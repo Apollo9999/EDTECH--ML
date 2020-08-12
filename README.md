@@ -1,8 +1,8 @@
 # EDTECH--ML
 
+Our solution to the problem is EDTECH or EDTECHPortal. It is an online learning platform where teachers can conduct virtual classes, quizzes and can even generate automatic notes for distribution.
+EDTECH also caters to the students living in the harsh geographical locations or slow internet with ‘Low Bandwidth Lecture Streaming’ feature
 
-<p align="center"><img src="https://github.com/bhumijgupta/DALP/raw/master/assets/DALP-logo.png" alt="DALP logo"/></p>
-<p align="center">DALP is a swiss army knife solution for distant real time academic learning</p>
 
 ## Features
 
@@ -28,10 +28,7 @@ Most of the students are not endowed with a high bandwidth internet connection. 
 4. Azure - Cognitive Services, Functions and Blob Storage
 5. MongoDB
 
-## Aditional Info
 
-1. [DALP pitch ppt](https://docs.google.com/presentation/d/16YCmMV2YsVV7RM8i6hxq74m41vX9nmcNBcpOttAk0nY/edit?usp=sharing)
-2. [DALP demo URL](https://youtu.be/bHOUIv7PNXY)
 
 ## Running the project locally
 
