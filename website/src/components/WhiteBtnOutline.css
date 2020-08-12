@@ -1,0 +1,13 @@
+.btnHover {
+  color: #3083ed !important;
+}
+
+.btnHover:disabled {
+  color: white !important;
+}
+
+button.white-btn-outline {
+  border: 2.3px solid #f8f9fa;
+  margin-top: 10px;
+  font-weight: 500 !important;
+}

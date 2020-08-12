@@ -1,0 +1,9 @@
+.home .sm-image img {
+  width: 60%;
+}
+
+@media (min-width: 769px) {
+  .sm-image {
+    display: none;
+  }
+}
