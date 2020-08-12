@@ -53,9 +53,3 @@ npm run start
 
 4. Go to [http://localhost:3000](http://localhost:3000) 
 
-## Developed by
-
-
-## License
-
-MIT License
