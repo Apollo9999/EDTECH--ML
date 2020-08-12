@@ -1,7 +1,7 @@
 # EDTECH--ML
 
 Our solution to the problem is EDTECH or EDTECHPortal. It is an online learning platform where teachers can conduct virtual classes, quizzes and can even generate automatic notes for distribution.
-EDTECH also caters to the students living in the harsh geographical locations or slow internet with ‘Low Bandwidth Lecture Streaming’ feature
+EDTECH also caters to the students living in the remote geographical locations or slow internet with ‘Low Bandwidth Lecture Streaming’ feature
 
 
 ## Features
